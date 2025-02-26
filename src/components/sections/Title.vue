@@ -4,10 +4,10 @@ import { ElIcon } from 'element-plus'
 import { Document, Files, MagicStick, Picture, DataAnalysis, Film } from '@element-plus/icons-vue'
 
 // logo地址，没有则置为""即可
-const logo = './logo.png'
+const logo = './dmir.png'
 
 // 标题
-const title = 'Academic Project Page Template'
+const title = 'Leveraging Constrained Monte Carlo Tree Search to Generate Reliable Long Chain-of-Thought for Mathematical Reasoning'
 
 // 标题颜色
 const title_color = '#000000'
@@ -24,15 +24,15 @@ const btn_color = '#444444'
 // 作者清单（包含作者姓名、头像、主页、地址序号）
 const authors = [
   {
-    name: "Your Name",
+    name: "Qingwen Lin",
     icon: "./icon/junyaohu.jpg",
     homepage: "https://junyaohu.github.io/",
     address_flag: "1,#"
   },
   {
-    name: "Anya Forger",
+    name: "Boyan Xu",
     icon: "./icon/anya.jpg",
-    homepage: "https://www.bilibili.com/video/BV1jv4y1P7Bb",
+    homepage: "https://boyanxu1.github.io/",
     address_flag: "2,#"
   },
   {
