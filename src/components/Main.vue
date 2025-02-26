@@ -21,9 +21,9 @@ export default {
   components: {
     Title,
     Abstract,
-    Markdown,
-    BibTeX,
-    Carousel,
+    // Markdown,
+   //  BibTeX,
+  /*   Carousel,
     Video,
     ImageSlider,
     ImageSliderInner,
@@ -35,7 +35,7 @@ export default {
     Comment,
     Latex,
     Model3D,
-    GaussianSplats3D
+    GaussianSplats3D */
   }
 }
 </script>
